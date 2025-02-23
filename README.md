@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JacoboMartinez
 - 👀 I’m a WebDev/3D Designer
-- 🌱 I’m currently learning more leanguages & improve my 3D skills
+- 🌱 I’m currently learning more languages & improve my 3D skills
 
 
 <!---
