@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bloodytinez
+- 👋 Hi, I’m @JacoboMartinez
 - 👀 I’m a WebDev/3D Designer
 - 🌱 I’m currently learning more leanguages & improve my 3D skills
 
